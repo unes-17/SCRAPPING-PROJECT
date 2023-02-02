@@ -1,5 +1,11 @@
+# dependencies
+/node_modules
+/.pnp
+.pnp.js
 
-node_modules
-tmp
+# testing
+/coverage
 
-src/tmp
+# production
+/tmp
+/src/tmp
